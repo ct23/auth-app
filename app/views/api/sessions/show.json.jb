@@ -1,0 +1,4 @@
+{
+  message: "hello world",
+  current_user: current_user
+}
